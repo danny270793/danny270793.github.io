@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.028cb4a6f8f3d4cca8706a2030f0a025.js"
+  "/precache-manifest.d5505e7a02627b7fdc353bcdd1df001c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "danny.github.io"});
