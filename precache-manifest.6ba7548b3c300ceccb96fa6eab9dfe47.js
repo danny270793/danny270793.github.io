@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c5c28a37fb2af05c578e",
-    "url": "/css/app.986f83cb.css"
+    "revision": "31eecbf9a9b728766a78",
+    "url": "/css/app.a83dcefa.css"
   },
   {
-    "revision": "c5c28a37fb2af05c578e",
-    "url": "/js/app.b0b0723c.js"
+    "revision": "31eecbf9a9b728766a78",
+    "url": "/js/app.4454d92c.js"
   },
   {
     "revision": "92689de3feec9b699193",
@@ -24,6 +24,10 @@ self.__precacheManifest = [
     "url": "/img/transacciones en linea.94e873bc.jpg"
   },
   {
+    "revision": "db3d18ccf27e1331c69fe343d1f2bd0b",
+    "url": "/img/ecotec.db3d18cc.png"
+  },
+  {
     "revision": "823722d9f33e9f9587ffa51da654ebcb",
     "url": "/img/curador de datos.823722d9.jpg"
   },
@@ -40,12 +44,12 @@ self.__precacheManifest = [
     "url": "/img/docker.b09ae102.png"
   },
   {
-    "revision": "0f9608806db773c637941b8c2708fccf",
-    "url": "/img/arduino-day-cut.0f960880.jpg"
+    "revision": "9bd176925e4b1735fe997424aca123a3",
+    "url": "/img/certificaciones.9bd17692.jpg"
   },
   {
-    "revision": "30c8dbe70dc57e6258c0ec77cab349cd",
-    "url": "/img/img_parallax1.30c8dbe7.jpg"
+    "revision": "0f9608806db773c637941b8c2708fccf",
+    "url": "/img/arduino-day-cut.0f960880.jpg"
   },
   {
     "revision": "7cdabcb71339d394d52c1190529bc47b",
@@ -56,8 +60,8 @@ self.__precacheManifest = [
     "url": "/img/experiences.99db1c66.jpg"
   },
   {
-    "revision": "9bd176925e4b1735fe997424aca123a3",
-    "url": "/img/certificaciones.9bd17692.jpg"
+    "revision": "30c8dbe70dc57e6258c0ec77cab349cd",
+    "url": "/img/img_parallax1.30c8dbe7.jpg"
   },
   {
     "revision": "6e1a8c7e96b63ed14be0236e5c2e515a",
@@ -76,56 +80,56 @@ self.__precacheManifest = [
     "url": "/img/cableado.3b8c2217.png"
   },
   {
-    "revision": "d9d17590c975aad1be0ddab673f9c769",
-    "url": "/fonts/fa-brands-400-iefix.d9d17590.eot"
+    "revision": "4b115e1153a9ea339d6a0bb284cc8ed3",
+    "url": "/fonts/fa-brands-400.4b115e11.woff2"
   },
   {
     "revision": "d9d17590c975aad1be0ddab673f9c769",
-    "url": "/fonts/fa-brands-400.d9d17590.eot"
+    "url": "/fonts/fa-brands-400-iefix.d9d17590.eot"
   },
   {
     "revision": "b90365bccdabd68c6c03902b4b141f09",
     "url": "/fonts/fa-brands-400.b90365bc.woff"
   },
   {
-    "revision": "4b115e1153a9ea339d6a0bb284cc8ed3",
-    "url": "/fonts/fa-brands-400.4b115e11.woff2"
-  },
-  {
-    "revision": "c39278f7abfc798a241551194f55e29f",
-    "url": "/fonts/fa-brands-400.c39278f7.ttf"
+    "revision": "d9d17590c975aad1be0ddab673f9c769",
+    "url": "/fonts/fa-brands-400.d9d17590.eot"
   },
   {
     "revision": "414ff5daad323a1c47c5177d4bd29674",
     "url": "/fonts/fa-regular-400.414ff5da.eot"
   },
   {
-    "revision": "5dd3976cb5d61e2e561f2a46b916f377",
-    "url": "/fonts/fa-regular-400.5dd3976c.woff"
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/fonts/fa-brands-400.c39278f7.ttf"
   },
   {
     "revision": "65779ebcc35604a25c2ba77309c5b8af",
     "url": "/fonts/fa-regular-400.65779ebc.woff2"
   },
   {
+    "revision": "414ff5daad323a1c47c5177d4bd29674",
+    "url": "/fonts/fa-regular-400-iefix.414ff5da.eot"
+  },
+  {
     "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
     "url": "/fonts/fa-regular-400.f6c6f6c8.ttf"
   },
   {
-    "revision": "414ff5daad323a1c47c5177d4bd29674",
-    "url": "/fonts/fa-regular-400-iefix.414ff5da.eot"
+    "revision": "5dd3976cb5d61e2e561f2a46b916f377",
+    "url": "/fonts/fa-regular-400.5dd3976c.woff"
   },
   {
     "revision": "b5596f4d339f99e3d69bc41be78db962",
     "url": "/fonts/fa-solid-900.b5596f4d.eot"
   },
   {
-    "revision": "462806316fea535a6a57651bc2b000b0",
-    "url": "/fonts/fa-solid-900.46280631.woff2"
-  },
-  {
     "revision": "b5596f4d339f99e3d69bc41be78db962",
     "url": "/fonts/fa-solid-900-iefix.b5596f4d.eot"
+  },
+  {
+    "revision": "462806316fea535a6a57651bc2b000b0",
+    "url": "/fonts/fa-solid-900.46280631.woff2"
   },
   {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
@@ -224,7 +228,7 @@ self.__precacheManifest = [
     "url": "/img/brighttalk.abff23fc.png"
   },
   {
-    "revision": "7f6df75edac01f18561429729dc9e476",
+    "revision": "709de50c13d6f2d1b6b99a837d45ab79",
     "url": "/index.html"
   },
   {
