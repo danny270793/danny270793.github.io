@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "31eecbf9a9b728766a78",
+    "revision": "e02b86b3b356f97b534c",
     "url": "/css/app.a83dcefa.css"
   },
   {
-    "revision": "31eecbf9a9b728766a78",
-    "url": "/js/app.4454d92c.js"
+    "revision": "e02b86b3b356f97b534c",
+    "url": "/js/app.0fe52ac8.js"
   },
   {
     "revision": "92689de3feec9b699193",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/img/javascript.0e4fdce8.png"
   },
   {
+    "revision": "76cfaa1c71470bd628bbe187d74e02d2",
+    "url": "/img/scrum-foundation-certification.76cfaa1c.jpg"
+  },
+  {
     "revision": "b09ae102696a2655b6e1a847cfe2fca5",
     "url": "/img/docker.b09ae102.png"
   },
@@ -52,6 +56,10 @@ self.__precacheManifest = [
     "url": "/img/arduino-day-cut.0f960880.jpg"
   },
   {
+    "revision": "30c8dbe70dc57e6258c0ec77cab349cd",
+    "url": "/img/img_parallax1.30c8dbe7.jpg"
+  },
+  {
     "revision": "7cdabcb71339d394d52c1190529bc47b",
     "url": "/img/studies.7cdabcb7.jpg"
   },
@@ -60,12 +68,12 @@ self.__precacheManifest = [
     "url": "/img/experiences.99db1c66.jpg"
   },
   {
-    "revision": "30c8dbe70dc57e6258c0ec77cab349cd",
-    "url": "/img/img_parallax1.30c8dbe7.jpg"
-  },
-  {
     "revision": "6e1a8c7e96b63ed14be0236e5c2e515a",
     "url": "/img/php.6e1a8c7e.png"
+  },
+  {
+    "revision": "45e7108cdb8e5ecc2cb86bfae9b3a424",
+    "url": "/img/hadoop.45e7108c.png"
   },
   {
     "revision": "26486acae059e85e8bf153957f5d49ca",
@@ -80,6 +88,10 @@ self.__precacheManifest = [
     "url": "/img/cableado.3b8c2217.png"
   },
   {
+    "revision": "d9d17590c975aad1be0ddab673f9c769",
+    "url": "/fonts/fa-brands-400.d9d17590.eot"
+  },
+  {
     "revision": "4b115e1153a9ea339d6a0bb284cc8ed3",
     "url": "/fonts/fa-brands-400.4b115e11.woff2"
   },
@@ -92,12 +104,12 @@ self.__precacheManifest = [
     "url": "/fonts/fa-brands-400.b90365bc.woff"
   },
   {
-    "revision": "d9d17590c975aad1be0ddab673f9c769",
-    "url": "/fonts/fa-brands-400.d9d17590.eot"
+    "revision": "414ff5daad323a1c47c5177d4bd29674",
+    "url": "/fonts/fa-regular-400.414ff5da.eot"
   },
   {
     "revision": "414ff5daad323a1c47c5177d4bd29674",
-    "url": "/fonts/fa-regular-400.414ff5da.eot"
+    "url": "/fonts/fa-regular-400-iefix.414ff5da.eot"
   },
   {
     "revision": "c39278f7abfc798a241551194f55e29f",
@@ -108,24 +120,12 @@ self.__precacheManifest = [
     "url": "/fonts/fa-regular-400.65779ebc.woff2"
   },
   {
-    "revision": "414ff5daad323a1c47c5177d4bd29674",
-    "url": "/fonts/fa-regular-400-iefix.414ff5da.eot"
-  },
-  {
-    "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
-    "url": "/fonts/fa-regular-400.f6c6f6c8.ttf"
-  },
-  {
     "revision": "5dd3976cb5d61e2e561f2a46b916f377",
     "url": "/fonts/fa-regular-400.5dd3976c.woff"
   },
   {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/fonts/fa-solid-900.b5596f4d.eot"
-  },
-  {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/fonts/fa-solid-900-iefix.b5596f4d.eot"
+    "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
+    "url": "/fonts/fa-regular-400.f6c6f6c8.ttf"
   },
   {
     "revision": "462806316fea535a6a57651bc2b000b0",
@@ -136,6 +136,14 @@ self.__precacheManifest = [
     "url": "/fonts/fa-solid-900.61969d43.woff"
   },
   {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/fonts/fa-solid-900.b5596f4d.eot"
+  },
+  {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/fonts/fa-solid-900-iefix.b5596f4d.eot"
+  },
+  {
     "revision": "b70cea0339374107969eb53e5b1f603f",
     "url": "/fonts/fa-solid-900.b70cea03.ttf"
   },
@@ -144,12 +152,12 @@ self.__precacheManifest = [
     "url": "/img/fa-regular-400.e7e957c8.svg"
   },
   {
-    "revision": "80533988ff5fecd5be26557d08ce8237",
-    "url": "/img/fa-brands-400.80533988.svg"
-  },
-  {
     "revision": "82905d8d1c06969df11c8c378e9bdd4c",
     "url": "/img/fa-solid-900.82905d8d.svg"
+  },
+  {
+    "revision": "80533988ff5fecd5be26557d08ce8237",
+    "url": "/img/fa-brands-400.80533988.svg"
   },
   {
     "revision": "31ee891ed04bc0ac4b4ec4582dce6430",
@@ -162,6 +170,10 @@ self.__precacheManifest = [
   {
     "revision": "60c83d3cf23fcd305aaf3440859d52f0",
     "url": "/img/security-testing.60c83d3c.jpg"
+  },
+  {
+    "revision": "7d17cc575b842e47f6fbc846a2a76bf9",
+    "url": "/img/AWS-Developer.7d17cc57.jpg"
   },
   {
     "revision": "3ea0ff03af3b42b348eeb0416d6a28d1",
@@ -184,8 +196,16 @@ self.__precacheManifest = [
     "url": "/img/automation-anywhere.bfe0f440.png"
   },
   {
+    "revision": "602da54556db7439d1ed2ed43034262d",
+    "url": "/img/DriverlessAITutorial.602da545.png"
+  },
+  {
     "revision": "f049b093c3795d8083f5b96ec6fb017d",
     "url": "/img/labview.f049b093.png"
+  },
+  {
+    "revision": "15fe39140ec50d0fa51231d2f9587dc7",
+    "url": "/img/ocp-java-se-11-developer-certification.15fe3914.png"
   },
   {
     "revision": "55091416fab749f6cf92a226ae9a0236",
@@ -200,6 +220,18 @@ self.__precacheManifest = [
     "url": "/img/uipath.a78f02cd.png"
   },
   {
+    "revision": "ef5619b3a0b4919358e8933ecf5192ee",
+    "url": "/img/ruby-on-rails.ef5619b3.jpg"
+  },
+  {
+    "revision": "78d8202bfe06defa9aea79442568fc04",
+    "url": "/img/python-certification.78d8202b.png"
+  },
+  {
+    "revision": "b454fdb297de369ffa52b5aaba8cf4af",
+    "url": "/img/android-developer.b454fdb2.jpg"
+  },
+  {
     "revision": "c5e1530f72e2670f8eb0f3cf9afe9458",
     "url": "/img/uipath-certification.c5e1530f.png"
   },
@@ -212,12 +244,20 @@ self.__precacheManifest = [
     "url": "/img/nif.8cf096c6.jpeg"
   },
   {
+    "revision": "a6a65381ff993a5beec56d43aa90276b",
+    "url": "/img/microsoft_bot_framework.a6a65381.jpg"
+  },
+  {
     "revision": "49749e5f20a846321978193b2af4eb9c",
     "url": "/img/veracode.49749e5f.jpeg"
   },
   {
     "revision": "1b666b0c8b63ee835325d5248e6365cc",
     "url": "/img/matlab.1b666b0c.jpg"
+  },
+  {
+    "revision": "6d4b5d7bc7829d55ace6a66daf13e6c5",
+    "url": "/img/apache-spark-certification.6d4b5d7b.png"
   },
   {
     "revision": "6286be4bd537224aa9410515944db30d",
@@ -228,7 +268,7 @@ self.__precacheManifest = [
     "url": "/img/brighttalk.abff23fc.png"
   },
   {
-    "revision": "709de50c13d6f2d1b6b99a837d45ab79",
+    "revision": "85cba5a3cfc8bd79fc054d1bdfce66f0",
     "url": "/index.html"
   },
   {
