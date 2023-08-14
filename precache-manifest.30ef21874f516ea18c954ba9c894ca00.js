@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e02b86b3b356f97b534c",
+    "revision": "19cbc1cff559d48c39ac",
     "url": "/css/app.a83dcefa.css"
   },
   {
-    "revision": "e02b86b3b356f97b534c",
-    "url": "/js/app.0fe52ac8.js"
+    "revision": "19cbc1cff559d48c39ac",
+    "url": "/js/app.be9fe3a1.js"
   },
   {
     "revision": "92689de3feec9b699193",
@@ -32,20 +32,16 @@ self.__precacheManifest = [
     "url": "/img/curador de datos.823722d9.jpg"
   },
   {
-    "revision": "72f77e376db4e836a550d5c4f1193aee",
-    "url": "/img/arduino-certification.72f77e37.jpg"
-  },
-  {
     "revision": "0e4fdce8ac22e09688c580e5bc4dcd7d",
     "url": "/img/javascript.0e4fdce8.png"
   },
   {
-    "revision": "76cfaa1c71470bd628bbe187d74e02d2",
-    "url": "/img/scrum-foundation-certification.76cfaa1c.jpg"
-  },
-  {
     "revision": "b09ae102696a2655b6e1a847cfe2fca5",
     "url": "/img/docker.b09ae102.png"
+  },
+  {
+    "revision": "7cdabcb71339d394d52c1190529bc47b",
+    "url": "/img/studies.7cdabcb7.jpg"
   },
   {
     "revision": "9bd176925e4b1735fe997424aca123a3",
@@ -56,16 +52,12 @@ self.__precacheManifest = [
     "url": "/img/arduino-day-cut.0f960880.jpg"
   },
   {
-    "revision": "30c8dbe70dc57e6258c0ec77cab349cd",
-    "url": "/img/img_parallax1.30c8dbe7.jpg"
-  },
-  {
-    "revision": "7cdabcb71339d394d52c1190529bc47b",
-    "url": "/img/studies.7cdabcb7.jpg"
-  },
-  {
     "revision": "99db1c668a91c01f85567d0ad3d39615",
     "url": "/img/experiences.99db1c66.jpg"
+  },
+  {
+    "revision": "30c8dbe70dc57e6258c0ec77cab349cd",
+    "url": "/img/img_parallax1.30c8dbe7.jpg"
   },
   {
     "revision": "6e1a8c7e96b63ed14be0236e5c2e515a",
@@ -88,40 +80,48 @@ self.__precacheManifest = [
     "url": "/img/cableado.3b8c2217.png"
   },
   {
-    "revision": "d9d17590c975aad1be0ddab673f9c769",
-    "url": "/fonts/fa-brands-400.d9d17590.eot"
-  },
-  {
     "revision": "4b115e1153a9ea339d6a0bb284cc8ed3",
     "url": "/fonts/fa-brands-400.4b115e11.woff2"
-  },
-  {
-    "revision": "d9d17590c975aad1be0ddab673f9c769",
-    "url": "/fonts/fa-brands-400-iefix.d9d17590.eot"
   },
   {
     "revision": "b90365bccdabd68c6c03902b4b141f09",
     "url": "/fonts/fa-brands-400.b90365bc.woff"
   },
   {
-    "revision": "414ff5daad323a1c47c5177d4bd29674",
-    "url": "/fonts/fa-regular-400.414ff5da.eot"
+    "revision": "d9d17590c975aad1be0ddab673f9c769",
+    "url": "/fonts/fa-brands-400.d9d17590.eot"
+  },
+  {
+    "revision": "d9d17590c975aad1be0ddab673f9c769",
+    "url": "/fonts/fa-brands-400-iefix.d9d17590.eot"
   },
   {
     "revision": "414ff5daad323a1c47c5177d4bd29674",
     "url": "/fonts/fa-regular-400-iefix.414ff5da.eot"
   },
   {
-    "revision": "c39278f7abfc798a241551194f55e29f",
-    "url": "/fonts/fa-brands-400.c39278f7.ttf"
-  },
-  {
     "revision": "65779ebcc35604a25c2ba77309c5b8af",
     "url": "/fonts/fa-regular-400.65779ebc.woff2"
   },
   {
+    "revision": "414ff5daad323a1c47c5177d4bd29674",
+    "url": "/fonts/fa-regular-400.414ff5da.eot"
+  },
+  {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/fonts/fa-solid-900.b5596f4d.eot"
+  },
+  {
     "revision": "5dd3976cb5d61e2e561f2a46b916f377",
     "url": "/fonts/fa-regular-400.5dd3976c.woff"
+  },
+  {
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/fonts/fa-brands-400.c39278f7.ttf"
+  },
+  {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/fonts/fa-solid-900-iefix.b5596f4d.eot"
   },
   {
     "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
@@ -134,14 +134,6 @@ self.__precacheManifest = [
   {
     "revision": "61969d433bf265b9717a6c357a1e04e4",
     "url": "/fonts/fa-solid-900.61969d43.woff"
-  },
-  {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/fonts/fa-solid-900.b5596f4d.eot"
-  },
-  {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/fonts/fa-solid-900-iefix.b5596f4d.eot"
   },
   {
     "revision": "b70cea0339374107969eb53e5b1f603f",
@@ -204,10 +196,6 @@ self.__precacheManifest = [
     "url": "/img/labview.f049b093.png"
   },
   {
-    "revision": "15fe39140ec50d0fa51231d2f9587dc7",
-    "url": "/img/ocp-java-se-11-developer-certification.15fe3914.png"
-  },
-  {
     "revision": "55091416fab749f6cf92a226ae9a0236",
     "url": "/img/laravel.55091416.png"
   },
@@ -224,16 +212,8 @@ self.__precacheManifest = [
     "url": "/img/ruby-on-rails.ef5619b3.jpg"
   },
   {
-    "revision": "78d8202bfe06defa9aea79442568fc04",
-    "url": "/img/python-certification.78d8202b.png"
-  },
-  {
     "revision": "b454fdb297de369ffa52b5aaba8cf4af",
     "url": "/img/android-developer.b454fdb2.jpg"
-  },
-  {
-    "revision": "c5e1530f72e2670f8eb0f3cf9afe9458",
-    "url": "/img/uipath-certification.c5e1530f.png"
   },
   {
     "revision": "eb03fce19310fbab4b763427cbef6fed",
@@ -268,7 +248,7 @@ self.__precacheManifest = [
     "url": "/img/brighttalk.abff23fc.png"
   },
   {
-    "revision": "85cba5a3cfc8bd79fc054d1bdfce66f0",
+    "revision": "05bfef3b7d06224a682554aab7f9a215",
     "url": "/index.html"
   },
   {
