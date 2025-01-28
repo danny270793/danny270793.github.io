@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "danny270793.github.io",
+            "sha256_cert_fingerprints":
+            [
+                "B6:3F:BD:53:8C:14:43:5E:85:8A:74:E5:37:6D:86:47:9E:4D:42:70:74:B9:7E:A7:11:1E:6B:04:F2:B5:78:93"
+            ]
+        }
+    }
+]
